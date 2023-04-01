@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/better-reads.iml" filepath="$PROJECT_DIR$/.idea/better-reads.iml" />
       <module fileurl="file://$PROJECT_DIR$/better-reads-data-loader/better-reads-data-loader.iml" filepath="$PROJECT_DIR$/better-reads-data-loader/better-reads-data-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/better-reads-webapp/better-reads-webapp.iml" filepath="$PROJECT_DIR$/better-reads-webapp/better-reads-webapp.iml" />
     </modules>
   </component>
 </project>

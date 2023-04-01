@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/better-reads-data-loader/pom.xml" />
+        <option value="$PROJECT_DIR$/better-reads-webapp/pom.xml" />
       </list>
     </option>
   </component>
